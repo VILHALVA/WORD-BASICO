@@ -16,28 +16,7 @@ O "WORD BÁSICO" é um editor de texto simples que permite aos usuários escreve
    - Ao clicar em "SALVAR", o conteúdo inserido é combinado em um documento de texto simples.
    - Um arquivo de texto contendo o título, subtítulo e texto é gerado e baixado automaticamente com o nome "documento.txt".
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/WORD-BASICO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd WORD-BASICO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip WORD-BASICO.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Inserir Conteúdo:**
    - Insira um título, um subtítulo e um texto nos campos correspondentes do editor de texto.
 
@@ -49,9 +28,9 @@ unzip WORD-BASICO.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
