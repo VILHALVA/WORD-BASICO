@@ -34,5 +34,3 @@ O "WORD BÁSICO" é um editor de texto simples que permite aos usuários escreve
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
